@@ -119,7 +119,7 @@ main{
     box-shadow: -5px 5px 8px rgba( 0, 0, 0, 0.3 );
     width: 50%;
     position: relative;
-    top: -40px;
+    margin-top: -40px;
     /*
         TODO:
         - Flexbox: Set the starting width of this element
